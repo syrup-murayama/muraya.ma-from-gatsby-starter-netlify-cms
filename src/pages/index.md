@@ -1,7 +1,8 @@
 ---
 templateKey: index-page
 title: 村山写真事務所のホームページへようこそ！
-image: /img/home-jumbotron.jpg
+image: >-
+  https://res.cloudinary.com/muraya-ma/image/upload/v1562159063/_66A5672_i1k35b.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
@@ -68,3 +69,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
